@@ -1,0 +1,11 @@
+Nom école : WIWI ; Nombre de classes : 2
+Eleves : 
+ Classe : CM2 ; Niveau : 4 ; aa ; aa ; 1/1/2013
+Eleves : 
+ Classe : CM2 ; Niveau : 4 ; bb ; bbb ; 2/2/2013
+
+Eleves : 
+ Classe : CE2 ; Niveau : 2 ; cc ; cc ; 1/1/2015
+Eleves : 
+ Classe : CP ; Niveau : 0 ; aa ; aa ; 1/1/2017
+

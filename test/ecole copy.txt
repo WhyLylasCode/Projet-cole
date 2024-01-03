@@ -1,0 +1,5 @@
+SCHOOL ; 1
+CE2 ; 3 ; aaa ; AAA ; 1/1/2015
+CM1 ; 3 ; bbb ; BBB ; 2/2/2014
+CE1 ; 3 ; ccc ; CCC ; 3/3/2016
+
